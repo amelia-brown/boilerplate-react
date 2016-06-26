@@ -1,0 +1,27 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a example setup for a react/redux project using babel and webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelia-brown/boilerplate-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amelia-brown/boilerplate-react/issues"
+  },
+  "homepage": "https://github.com/amelia-brown/boilerplate-react#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  }
+}
